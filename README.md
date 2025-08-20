@@ -1,1 +1,5 @@
 # My-Expectation
+
+  From the title of the course, I expect to learn how different parts of a system are connected and work together as one. I also want to understand how the overall structure or design of a system is planned, including how each part communicates and shares data with the others.
+	I'm hoping to learn about the tools and techniques used in system integration, and how systems interact through networks and databases. I'm also interested in how systems are made to be secure, efficient, and flexible enough to handle changes, especially in real-world situations like business or cloud-based systems.
+	I think this subject will help me improve my problem-solving skills, especially when it comes to designing systems that can work well with other technologies. I’m also looking forward to hands-on activities or projects where I can apply what I learn. Overall, I’m excited to gain both technical knowledge and practical experience in building and understanding how systems are designed and connected.
